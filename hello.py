@@ -11,3 +11,7 @@ print("He said \"It\'s a lovely day\"")
 
 print ("\\python\\")
 print ('\python\\')
+
+print("Hello,new file")
+
+
